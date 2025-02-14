@@ -1,0 +1,155 @@
+/* Your styles here */
+
+#logo {
+  background-image: url(../images/logo.png);
+  width: 100%;
+  height: 80px;
+  background-repeat: no-repeat;
+  background-color: rgb(38, 51, 59);
+  background-position: left;
+  background-size: 150px;
+}
+
+#barra {
+    width: 100%;
+  height: 25px;
+  background-color: rgb(54, 74, 86);
+  text-align: left;
+  padding-left: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#barra a {
+  color: rgb(252, 254, 255);
+}
+
+#h1 {
+  width: 100%;
+  height: 30px;
+  background-color: rgb(255, 255, 255);
+  padding-top: 11px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  background-color: rgb(255, 106, 42);
+  width: 1450px;
+  height: 29px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding-top: 7px;
+  color: rgb(249, 250, 251);
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+#intest {
+    background-image: url(../images/bg-image.png);
+    width: 1450px;
+    height: 200px;
+    margin-left: auto;
+  margin-right: auto;
+  
+
+}
+
+#testo {
+    text-align: center;
+    margin-left: auto;
+  margin-right: auto;
+  padding-top: 70px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: x-large;
+  color: rgb(251, 253, 255);
+  font-weight: bold;
+
+}
+
+#foto {
+    
+    text-align: center;
+    width: 1450px;
+    padding-top: 70px;
+}
+
+#foto img {
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+    padding: 3px;
+    box-shadow: 1px 1px 10px;
+}
+
+#gift {
+    width: 1450px;
+    height: 1px;
+   padding: 20px;
+   margin-left: auto;
+  margin-right: auto;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  
+}
+
+#images {
+    text-align: center;
+    width: 1450px;
+    padding-top: 70px;
+    margin-left: auto;
+  margin-right: auto;
+}
+
+#images img {
+    width: 1450px;
+}
+
+#images p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#images2 {
+    text-align: center;
+    width: 1450px;
+    padding-top: 30px;
+    margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 30px;
+}
+
+#images2 img {
+    width: 1450px;
+}
+
+#images2 p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#last {
+    width: 100%;
+  height: 25px;
+  background-color: rgb(54, 74, 86);
+  text-align: center;
+  padding-left: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#last p a {
+    width: 100%;
+  height: 25px;
+  color: rgb(240, 244, 248);
+  text-align: center;
+  padding-left: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#end {
+    background-image: url(../images/logo.png);
+    width: 100%;
+  height: 80px;
+  background-repeat: no-repeat;
+  background-color: rgb(38, 51, 59);
+  background-position: center;
+  background-size: 150px;
+}
